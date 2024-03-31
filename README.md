@@ -14,17 +14,17 @@ Flight price prediction
 - Hyperparameter Tuning
 - Conclusion
 
-##Dataset Information:
+## Dataset Information:
 - Size of training set: 10683 records
 - Size of test set: 2671 records
 - Link of the dataset:- https://www.kaggle.com/datasets/nikhilmittal/flight-fare-prediction-mh
 
-##Machine Learning Algorithm used:
+## Machine Learning Algorithm used:
 - K neighnors regressor
 - Decision Tree regressor
 - Random Forest Regressor
 
-##Conclusion:
+## Conclusion:
 Random Forest Regressor gives best accuracy
 Accuracy:81%
 
